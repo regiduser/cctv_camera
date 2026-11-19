@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+recordings/
+*.avi
+*.mp4
+*.log
